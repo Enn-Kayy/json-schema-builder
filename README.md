@@ -19,7 +19,11 @@ A dynamic React-based UI tool that allows users to visually build JSON Schemas b
 ---
 
 ## 🚀 Getting Started
-
+### Create React App
+```bash
+npx create-react-app json-schema-builder
+cd json-schema-builder
+```
 ### 📦 Install Dependencies
 
 ```bash
